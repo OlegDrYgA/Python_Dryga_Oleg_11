@@ -1,1 +1,1 @@
-print('Uff ia ustal')
+print('Uff ia ustal i muhozhuk')
