@@ -1,0 +1,1 @@
+print('Uff ia ustal i muhozhuk')
